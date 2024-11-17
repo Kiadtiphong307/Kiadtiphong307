@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kiadtiphong Wongmui</h1>
-<h3 align="center">
+<h2 align="center">Hi 👋, I'm Kiadtiphong Wongmui</h1>
+<h3>
 "Hello, I'm Boss, a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth."
 </h3>
 
