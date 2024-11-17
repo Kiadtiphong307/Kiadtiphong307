@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Kiadtiphong Wongmui</h1>
 <p>
 <h4>
-" 🧑‍💻I'm Boss, a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth.</h4> 
+"🧑‍💻I'm Boss, a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth".</h4> 
 </p>
 <p>
 <h4>
-🌟I am particularly interested in Full-stack Development and DevOps, as they allow me to explore both the technical and operational aspects of software development, enabling me to create scalable and efficient solutions."</h4> 
+"🌟I am particularly interested in Full-stack Development and DevOps, as they allow me to explore both the technical and operational aspects of software development, enabling me to create scalable and efficient solutions."</h4> 
 </p>
 
 <p align="center"> 
