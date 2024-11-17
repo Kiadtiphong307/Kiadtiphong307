@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Kiadtiphong Wongmui</h1>
-<h3>
+<h5>
 " 🧑‍💻I'm Boss, a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth. 
-  
+<br/>
 🌟I am particularly interested in Full-stack Development and DevOps, as they allow me to explore both the technical and operational aspects of software development, enabling me to create scalable and efficient solutions."
-</h3>
+</h5>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kiadtiphong307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
