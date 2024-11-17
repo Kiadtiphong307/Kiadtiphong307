@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm Kiadtiphong Wongmui</h1>
 <h3>
-"Hello, I'm Boss, a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth."
+" 🧑‍💻I'm Boss, a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth. 
+  
+🌟I am particularly interested in Full-stack Development and DevOps, as they allow me to explore both the technical and operational aspects of software development, enabling me to create scalable and efficient solutions."
 </h3>
 
 <p align="center"> 
@@ -16,13 +18,13 @@
 
 ### 🌐 Connect With Me:
 <p align="center">
-  <a href="https://linkedin.com/in/เกียรติ์ติพงษ์-วงศ์มุ่ย" target="_blank">
+  <a href="https://linkedin.com/in/kiadtiphong-wm" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/kiadtiphong192" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://fb.com/boss'kiadtiphong.wongmui" target="_blank">
+  <a href="https://fb.com/boss.kiadtiphong.wongmui" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/kiadtiphong_192" target="_blank">
