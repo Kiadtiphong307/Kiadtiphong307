@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiadtiphong Wongmui (Boss)</h1>
 <p align="center">
-  <em>“🧑‍💻 I'm , a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth.”</em>
+  <em>“🧑‍💻 I'm a third-year Computer Science student at Maejo University. I am a motivated and detail-oriented individual who seeks to continuously improve myself through learning and new experiences. My passion for Computer Science drives me to embrace challenges that foster academic and professional growth.”</em>
 </p>
 
 <p align="center">
@@ -9,49 +9,45 @@
 
 ---
 
-### 🔧 Technologies & Tools:
 
-<table align="center" style="border-collapse: collapse; text-align: center;">
+### 🔧 Technologies & Tools
+<table align="center" style="border-collapse: collapse; text-align: center;"> 
+  <tr> 
+    <th>💻 Languages</th>
+    <th>🖥️ Frontend Frameworks</th>
+    <th>⚙️ Backend Frameworks</th>
+    <th>🗄️ Databases/Cloud</th>
+    <th>🛠️ Tools/Technical</th> 
+  </tr> 
   <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Language</strong></td>
+    <td> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+    </td> 
+    <td> 
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br> 
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br> 
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /><br> 
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <br> 
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+    </td> 
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br>                                                                                         
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br> 
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
     </td>
-  </tr>
-  <tr>
-    <td><strong>Framework</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Database/Cloud</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools/Technical</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+    </td> 
+    <td> 
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+    </td> 
   </tr>
 </table>
 
@@ -76,7 +72,6 @@
   </table>
 </p>
 
-
 ---
 
 ### 🌐 Connect With Me:
@@ -95,9 +90,18 @@
   </a>
 </p>
 
+
 <p align="center">
   🌟 Thank you for visiting my GitHub profile! 🌟
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiadtiphong307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hd1ilw50Zdb8Y/giphy.gif" alt="Centered GIF" width="400" />
+</p>
+
+
+
+
