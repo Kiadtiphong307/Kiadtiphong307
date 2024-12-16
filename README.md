@@ -97,11 +97,6 @@
 </p>
 
 ---
----
-
-
-
----
 
 <p align="center">
   🌟 Thank you for visiting my GitHub profile! 🌟
@@ -109,5 +104,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiadtiphong307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
