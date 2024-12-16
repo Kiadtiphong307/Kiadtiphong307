@@ -7,8 +7,11 @@
   <em>“🌟 I am particularly interested in Full-stack Development and DevOps, as they allow me to explore both the technical and operational aspects of software development, enabling me to create scalable and efficient solutions.”</em>
 </p>
 
+<br>
+
 ---
 
+<br>
 
 ### 🔧 Technologies & Tools
 <table align="center" style="border-collapse: collapse; text-align: center;"> 
@@ -51,7 +54,11 @@
   </tr>
 </table>
 
+<br>
+
 ---
+
+<br>
 
 ### 📊 GitHub Stats:
 <p align="center">
@@ -72,7 +79,11 @@
   </table>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ### 🌐 Connect With Me:
 <p align="center">
