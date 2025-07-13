@@ -91,7 +91,7 @@
   <a href="https://kaggle.com/kiadtiphong192" target="_blank"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="mailto:kiadtiphong192@gmail.com" target="_blank"> 
+  <a href="mailto:kiadtiphong.wongmui@gmail.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
