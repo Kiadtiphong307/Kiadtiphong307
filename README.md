@@ -102,7 +102,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiadtiphong307&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hd1ilw50Zdb8Y/giphy.gif" alt="Centered GIF" width="400" />
-</p>
